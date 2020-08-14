@@ -1,0 +1,29 @@
+${AnsiColor.BLUE}
+ 
+                                                                                                                                                     
+ 
+                                                                                                                                                     
+                                                                                                                                                     
+                                                          iiii                                                DDDDDDDDDDDDD     DDDDDDDDDDDDD        
+                                                         i::::i                                               D::::::::::::DDD  D::::::::::::DDD     
+                                                          iiii                                                D:::::::::::::::DDD:::::::::::::::DD   
+                                                                                                              DDD:::::DDDDD:::::DDD:::::DDDDD:::::D  
+    ssssssssss   ppppp   ppppppppp   rrrrr   rrrrrrrrr  iiiiiiinnnn  nnnnnnnn       ggggggggg   ggggg           D:::::D    D:::::DD:::::D    D:::::D 
+  ss::::::::::s  p::::ppp:::::::::p  r::::rrr:::::::::r i:::::in:::nn::::::::nn    g:::::::::ggg::::g           D:::::D     D:::::D:::::D     D:::::D
+ss:::::::::::::s p:::::::::::::::::p r:::::::::::::::::r i::::in::::::::::::::nn  g:::::::::::::::::g           D:::::D     D:::::D:::::D     D:::::D
+s::::::ssss:::::spp::::::ppppp::::::prr::::::rrrrr::::::ri::::inn:::::::::::::::ng::::::ggggg::::::gg           D:::::D     D:::::D:::::D     D:::::D
+ s:::::s  ssssss  p:::::p     p:::::p r:::::r     r:::::ri::::i  n:::::nnnn:::::ng:::::g     g:::::g            D:::::D     D:::::D:::::D     D:::::D
+   s::::::s       p:::::p     p:::::p r:::::r     rrrrrrri::::i  n::::n    n::::ng:::::g     g:::::g            D:::::D     D:::::D:::::D     D:::::D
+      s::::::s    p:::::p     p:::::p r:::::r            i::::i  n::::n    n::::ng:::::g     g:::::g            D:::::D     D:::::D:::::D     D:::::D
+ssssss   s:::::s  p:::::p    p::::::p r:::::r            i::::i  n::::n    n::::ng::::::g    g:::::g            D:::::D    D:::::DD:::::D    D:::::D 
+s:::::ssss::::::s p:::::ppppp:::::::p r:::::r           i::::::i n::::n    n::::ng:::::::ggggg:::::g          DDD:::::DDDDD:::::DDD:::::DDDDD:::::D  
+s::::::::::::::s  p::::::::::::::::p  r:::::r           i::::::i n::::n    n::::n g::::::::::::::::g          D:::::::::::::::DDD:::::::::::::::DD   
+ s:::::::::::ss   p::::::::::::::pp   r:::::r           i::::::i n::::n    n::::n  gg::::::::::::::g          D::::::::::::DDD  D::::::::::::DDD     
+  sssssssssss     p::::::pppppppp     rrrrrrr           iiiiiiii nnnnnn    nnnnnn    gggggggg::::::g          DDDDDDDDDDDDD     DDDDDDDDDDDDD        
+                  p:::::p                                                                    g:::::g                                                 
+                  p:::::p                                                        gggggg      g:::::g                                                 
+                 p:::::::p                                                       g:::::gg   gg:::::g                                                 
+                 p:::::::p                                                        g::::::ggg:::::::g                                                 
+                 p:::::::p                                                         gg:::::::::::::g                                                  
+                 ppppppppp                                                           ggg::::::ggg                                                    
+                                                                                        gggggg                                                       
